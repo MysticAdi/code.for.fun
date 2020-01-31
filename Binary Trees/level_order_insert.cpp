@@ -16,6 +16,8 @@ Node* newnode(int data)
 	temp->left=NULL;temp->right=NULL;
 	return temp;
 }
+
+
 int main()
 {
 
